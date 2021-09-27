@@ -1,0 +1,11 @@
+body
+
+#firstHeader {
+color:red;
+font-weight: bold;
+}
+
+.greedText {
+color:green;
+font-style:italic;
+}

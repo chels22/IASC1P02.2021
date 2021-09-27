@@ -1,0 +1,12 @@
+body
+
+{background-color:red}
+  .one{
+    color:green;
+    font-style:italic;
+  }
+
+  .font{
+    font-size: 30px;
+    font-style: inline;
+  }
