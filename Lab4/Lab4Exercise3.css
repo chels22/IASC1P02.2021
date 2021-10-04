@@ -1,0 +1,17 @@
+.green {
+  background-color: green;
+}
+.red{
+  color: red;
+}
+.moregreen{
+  color: darkgreen;
+}
+
+.box{
+  border: black 3px dotted;
+  margin: 20px 10% 20px 2%;
+}
+.purple{
+  color:purple;
+}

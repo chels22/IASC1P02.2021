@@ -1,0 +1,28 @@
+body {
+  background-color: blue;
+}
+
+.bigbox{
+    margin: 20px 10% 20px 10%;
+    color: black;
+    border: black 3px solid;
+    width:1000px;
+}
+
+.box{
+  margin: 20px 10% 20px 2%;
+  color: red;
+  border: green 2px dashed;
+  width: 950px;
+}
+
+.picture{
+  margin: 20px 10% 0px 0%;
+  border: yellow 2px dashed;
+  width: 150px;
+  padding: 10px 10% 10px 10%;
+}
+
+img{
+  margin-left: -90px;
+}

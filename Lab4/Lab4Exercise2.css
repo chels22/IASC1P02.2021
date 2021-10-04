@@ -1,0 +1,36 @@
+.box{
+
+  height: 200px;
+  width: auto;
+  border: purple 3px dashed;
+  text-align: center;
+
+}
+
+.green {
+  color: green;
+  font-size: 10px;
+  text-align: center;
+}
+
+.orange {
+  color: orange;
+  font-size: 20px;
+
+}
+
+.red {
+  color: red;
+  vertical-align: super;
+}
+
+.purple {
+  color: purple;
+  font-size: 10px;
+  text-align: right;
+}
+
+.yellow{
+  color: yellow;
+  text-transform: uppercase;
+}
