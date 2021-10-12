@@ -1,0 +1,30 @@
+body {
+  color:white;
+}
+
+
+
+#header{
+  height:50px;
+  text-align: center;
+  background-color: red;
+  width: 750px;
+}
+
+#center{
+  float:left;
+  height:500px;
+  background-color:green;
+  width: 750px;
+  font-size: 6pt;
+}
+
+
+#footer{
+  height:50px;
+  background-color: blue;
+  text-align: left;
+  clear:both;
+  font-size: 6pt;
+  width: 750px;
+}

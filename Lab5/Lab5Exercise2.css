@@ -1,0 +1,46 @@
+body{
+  background-color: green;
+}
+
+#wrapper{
+  width: 750px;
+  margin:0 auto;
+  background-color: yellow;
+}
+
+#header{
+  background-color: red;
+  height:75px;
+  text-align: center;
+  width: 750px;
+  margin: 0 auto;
+}
+
+#pink{
+  float:left;
+  width: 250px;
+  background-color: lightpink;
+  height: 75px;
+  font-weight: bold;
+}
+
+#orange{
+  background-color: orange;
+  height: 75px;
+  width: 500px;
+  float: right;
+  font-weight: bold;
+}
+
+#blue{
+  background-color: blue;
+    height: 450px;
+    font-weight: bold;
+}
+
+#footer{
+  background-color: yellow;
+    height: 40px;
+    font-weight: bold;
+
+}
