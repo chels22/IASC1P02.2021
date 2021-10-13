@@ -1,0 +1,38 @@
+.Blue{
+  color: blue;
+  font-size: 25px;
+  font-family: arial;
+}
+
+.capital{
+  text-transform: uppercase;
+}
+
+.fixed{
+  position: fixed;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+h4,ul,ol{
+  color:red;
+}
+
+.nesting {
+  color:purple;
+}
+
+#wrapper{
+  width: 650px;
+  margin:0 auto;
+  background-color: yellow;
+  height: 125px;
+  border: dotted green;
+  padding: 10px 20% 10px 20%;
+}
