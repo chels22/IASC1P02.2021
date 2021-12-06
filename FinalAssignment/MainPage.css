@@ -1,0 +1,133 @@
+.small {
+  font-size: 10px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+body {
+  color: green;
+  background-color: #ffcccb;
+  font-size: 20px;
+}
+
+.border {
+  /*Advanced site component, border that continues with text only, learned in class*/
+  margin: auto;
+  border-left: solid;
+  border-right: solid;
+  border-color: red;
+  margin: auto;
+}
+
+/*Advanced Site Component: Fixed link*/
+.fixed{
+  position: fixed;
+}
+
+/*Advanced Site Component Citation: W3Schools, Accessed Dec, 2nd, 2021, https://www.w3schools.com/cssref/sel_hover.asp*/
+.text:hover {
+  background-color: red;
+}
+
+.header {
+  font-size: 65px;
+  color: darkgreen;
+  /*Advanced Site Component Citation:
+  EDUCBA, Accessed on Dec 4th, 2021, https://www.educba.com/css-text-outline/*/
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: white;
+  text-align: center;
+  font-weight: bold;
+  background-color: red;
+}
+
+.Photo1 {
+  /*Advance Cite Component Citation:
+  W3 Schools, Accessed On: Dec. 2nd, 2021, https://www.w3schools.com/cssref/sel_hover.asp*/
+          position: relative;
+          display: inline-block;
+      }
+      .Photo1 .Top1 {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 99;
+        }
+      .Photo1:hover .Top1 {
+          display: inline;
+          height: 250px;
+          width: 650px;
+        }
+
+        .Bottom1 {
+          height: 250px;
+          width: 650px;
+
+        }
+
+
+.Photo2 {
+  /*Advance Cite Component Citation:
+  W3 Schools, Accessed On: Dec. 2nd, 2021 https://www.w3schools.com/cssref/sel_hover.asp*/
+          position: relative;
+          display: inline-block;
+      }
+      .Photo2 .Top2 {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 99;
+        }
+      .Photo2:hover .Top2 {
+          display: inline;
+          height: 250px;
+          width: 650px;
+        }
+
+        .Bottom2 {
+          height: 250px;
+          width: 650px;
+
+        }
+
+  .Photo3 {
+    /*Advance Cite Component Citation:
+    W3 Schools, Accessed On: Dec. 2nd, 2021, https://www.w3schools.com/cssref/sel_hover.asp*/
+                position: relative;
+                display: inline-block;
+            }
+          .Photo3 .Top3 {
+              display: none;
+              position: absolute;
+              top: 0;
+              left: 0;
+              z-index: 99;
+          }
+          .Photo3:hover .Top3 {
+              display: inline;
+              height: 250px;
+              width: 650px;
+          }
+          .Bottom3 {
+            height: 250px;
+            width: 650px;
+
+          }
+.bold {
+  /*Navigation section, this will be on every webpage*/
+    font-weight: bold;
+    font-size: 22px;
+    color: darkgreen;
+    }
+
+  .footer {
+    text-align: right;
+    background-color: red;
+    color: #ffcccb;
+    font-size: 12px
+
+  }

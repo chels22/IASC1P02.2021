@@ -16,9 +16,6 @@ console.log(todayHour);
 console.log(todayYear);
 console.log(todayFullYear);
 
-document.getElementById("theDate").innerHTML = (todayDate) + "/" + (todayMonth) + "/" + (todayFullYear) + "/" + (todayHour);
+document.getElementById("theDate").innerHTML = (todayDate) + "/" + (todayMonth) + "/" + (todayFullYear) + "/";
 
-function stopTime(){
-  document.getElementById("theDate")
-  var stop = new Date;
 }

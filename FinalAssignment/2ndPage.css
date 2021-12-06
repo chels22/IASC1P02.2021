@@ -1,0 +1,49 @@
+.header {
+  font-size: 65px;
+  color: darkgreen;
+  /*Advanced Site Component Citation:
+  EDUCBA, Accessed on Dec 4th, https://www.educba.com/css-text-outline/*/
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: white;
+  text-align: center;
+  font-weight: bold;
+  background-color: red;
+}
+
+/*Advanced Site Component Citation: W3Schools, Accessed Dec, 2nd, 2021, https://www.w3schools.com/cssref/sel_hover.asp*/
+.text:hover {
+  background-color: red;
+}
+
+
+body {
+  color: green;
+  background-color: #ffcccb;
+  font-size: 20px;
+}
+
+.footer {
+  text-align: right;
+  background-color: red;
+  color: #ffcccb;
+  font-size: 12px
+
+}
+
+#countdown {
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+  border-left: solid;
+  border-right: solid;
+  border-color: red;
+  margin: auto;
+
+}
+
+.bold {
+  /*Navigation section, this will be on every webpage*/
+    font-weight: bold;
+    font-size: 22px;
+    color: darkgreen;
+    }
